@@ -8,12 +8,12 @@ Allows the user to hide questions with a checkbox, and optionally hide completed
 
 ######Settings
 
-autoCollapseCompleted - on page load, automatically collapse questions that have been given full credit
+  * `autoCollapseCompleted` - on page load, automatically collapse questions that have been given full credit
 
 ###WebAss Process of Elimination
 
-Allows the user to more easily find an answer to multiple choice questions by adding the ability to exclude possible answers by right-clicking on those with radio buttons.
+Allows the user to more easily find an answer to multiple choice questions by adding the ability to exclude possible answers by right-clicking on them.
 
 ######Settings
 
-None
+  * None
